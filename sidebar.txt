@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ilu:home|Door43 (ilu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ilu|d43-ilu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ilu/archive/master.zip|d43-ilu.zip]]
+
+**Recent Changes**
+{{changes>ns = ilu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ilu|Ethnologue data]]
+
